@@ -1,22 +1,22 @@
-=== Replace Google Fonts ===
+===谷歌字体镜像===
 
-Contributors: soulteary
-Tags: Qihu Fonts, Qihu Web Fonts, 360 Fonts, 360 Web Fonts, Google Fonts, Google Web Fonts
-Requires at least: 3.5
+Contributors:炎木
+Tags: 谷歌字体，网页字体，中国谷歌字体，谷歌网络字体，谷歌字体，谷歌的Web字体,镜像,反代,
+At least: 3.5
 Tested up to: 3.8
-Stable tag: 1.0
+Stable Tags: 1.0
 
-Use Qihoo 360 Open Fonts Service to replace Google's.
+使用炎木电商提供的代理开放式字体服务来取代谷歌。
 
-== Description ==
+==说明==
 
-[Plugin homepage](http://www.soulteary.com/2014/06/08/) | [Plugin author](http://www.soulteary.com/) 
+[插件的主页（http://www.soulteary.com/2014/06/08/）| [插件作者（http://www.soulteary.com/）
 
-There are some problem with Google in china, the Google Fonts make the website too slow to open, so we can use Qihoo 360's Web Fonts replace the Google's.
+谷歌字体在中国使用，谷歌字体使网站速度太慢，开放，所以我们可以使用炎木电商提供的谷歌字体代理替换谷歌,并支持双协议(http和https)
 
-[Project GitHub](https://github.com/soulteary/Replace-Google-Fonts).
+[项目的GitHub（https://github.com/ccmall/Google-Font-Mirroring）。
+Google Font Mirroring
+==安装==
 
-== Installation ==
-
-1. Upload `replace-google-fonts` folder to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
+1.后台-插件-上传压缩包
+2.通过WordPress的的“插件”菜单激活插件
