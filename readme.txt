@@ -1,7 +1,7 @@
 ===谷歌字体镜像===
 
 Contributors:炎木
-Tags: 谷歌字体，网页字体，中国谷歌字体，谷歌网络字体，谷歌字体，谷歌的Web字体,镜像,反代,
+Tags: 谷歌字体，网页字体，中国谷歌字体，谷歌网络字体，谷歌字体，谷歌的Web字体,镜像,反向代理!
 At least: 3.5
 Tested up to: 3.8
 Stable Tags: 1.0
@@ -15,7 +15,7 @@ Stable Tags: 1.0
 谷歌字体在中国使用，谷歌字体使网站速度太慢，开放，所以我们可以使用炎木电商提供的谷歌字体代理替换谷歌,并支持双协议(http和https)
 
 [项目的GitHub（https://github.com/ccmall/Google-Font-Mirroring）。
-Google Font Mirroring
+
 ==安装==
 
 1.后台-插件-上传压缩包
