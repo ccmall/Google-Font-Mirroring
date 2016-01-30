@@ -15,7 +15,7 @@
  */
 if (!defined('ABSPATH')) exit;
 
-class Google_ont_Mirroring
+class Google_Font_Mirroring
 {
 
     /**
